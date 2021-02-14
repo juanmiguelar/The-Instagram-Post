@@ -1,0 +1,63 @@
+body{
+    font-family: 'Roboto Mono', serif;
+}
+
+.bookmark{
+    float: right;
+    padding-right: 10px;
+}
+
+.post{
+    width: 400px;
+    margin-left: 25%;
+    border: solid;
+}
+
+.headerThumnail{
+    padding-left: 3px;
+}
+
+.postBody > img {
+    max-width: 400px;
+}
+
+.footerSocialBtns{
+    padding-left: 3px;
+}
+
+.description{
+    padding-left: 3px;
+
+}
+
+.footerSocialDescripcion{
+    padding-left: 3px;
+}
+
+.postFooter > .description{
+    margin: auto;
+}
+
+.postHeader > div{
+    display: inline-block;
+}
+
+.postHeader{
+    padding-bottom: 10px;
+}
+
+.postHeader > .headerOptions{
+    float: right;
+    padding-right: 10px;
+    padding-top: 5px;
+}
+
+.headerTitle > h5, p {
+    margin: 0;
+    padding: 0;
+}
+
+.headerTitle > p {
+    font-size: x-small;
+}
+
